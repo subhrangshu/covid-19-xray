@@ -8,7 +8,7 @@ To cite this repository, use this bibtex or convert to your preferred format. Ea
 
 ```
 @ONLINE {sadhikary2020covid_19_xray_code,
-    author = "Subhrangshu Adhikary",
+    author = "Subhrangshu Adhikary, Saikat Banerjee, Sudhir Kumar Chaturvedi, Sourav Basu, Sonam Chaturvedi",
     title  = "Classification of Covid-19 vs Normal with Chest X-Ray and Transfer Learning",
     month  = "jul",
     year   = "2020",
